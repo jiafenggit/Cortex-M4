@@ -1,0 +1,1 @@
+"./TFT_Touch.obj" "./tm4c1294ncpdt_startup_ccs.obj" "./uartstdio.obj" "./TOUCHinit/TOUCH_TSC2046.obj" "./TFTinit/TFT_400x240_OTM4001A_16bit.obj" "./EPIinit/EPIinit.obj" "../tm4c1294ncpdt.cmd" -l"libc.a" -l"C:\ti\TivaWare_C_Series-2.1.0.12573\driverlib\ccs\Debug\driverlib.lib" 
